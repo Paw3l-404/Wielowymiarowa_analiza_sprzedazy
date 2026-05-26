@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.37206.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "ProjektWAD_DataMining", "ProjektWAD_DataMining\ProjektWAD_DataMining.dwproj", "{059B7887-398A-4C86-AE2F-8B1A46715637}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{059B7887-398A-4C86-AE2F-8B1A46715637}.Development|Default.ActiveCfg = Development
+		{059B7887-398A-4C86-AE2F-8B1A46715637}.Development|Default.Build.0 = Development
+		{059B7887-398A-4C86-AE2F-8B1A46715637}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53F85E7F-97B7-432C-96C4-F5C5D655FF8D}
+	EndGlobalSection
+EndGlobal
